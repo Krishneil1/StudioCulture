@@ -102,6 +102,7 @@ h5:hover {
   transform: translate(-50%, -50%);
 
 }
+
 .testimononialAreaform{
   position: relative;
   text-align: center;
@@ -131,3 +132,46 @@ h5:hover {
   color: white;
   
 }
+.testclasscon {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+/*-This puts orage over on image start*/
+.overlaytest {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width:100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #ff9933;
+}
+
+.testclasscon:hover .overlaytest {
+  opacity: 0.9;
+}
+.test {
+  color: white;
+  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+.whatWetext{
+  background-color: #ff9933;
+  width:100%;
+  color:white;
+}
+/*-This puts orage over on image End*/
