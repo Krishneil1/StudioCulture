@@ -1,0 +1,133 @@
+.boxed {
+    border: 1px solid #000 ;
+    line-height: 0.2;
+  }
+  .carousel-caption {
+    top: 35%;
+    bottom: auto;
+    font-size: 2rem;
+}
+.nextbackArrow
+{
+  border: 2px solid white;
+  height: 20px;
+  border-radius:50%;
+  width: 20px
+}
+.eventsArea
+{
+  max-width: 100%;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.eventsAreaPic
+{
+  max-width: 100%;
+  height: 100%;
+
+}
+img{
+  max-width: 100%;
+}
+p:hover { 
+  color: #33bbff;
+}
+a { 
+  color: #000;
+}
+a:hover { 
+  color: #33bbff;
+}
+h1{
+  color:#ff9933;
+}
+h1:hover { 
+  color: #33bbff;
+}
+h5:hover { 
+  color: #33bbff;
+}
+
+
+.eventsAreaGiving {display: block; margin: -40px auto;}
+.eventsAreaGiving {position:relative; top:60px;}
+
+.whatWeDoArea
+{
+  background-color: #f2f2f2;
+}
+.btn
+{
+  padding: 0.3rem 0.4rem;
+}
+.ServiceC1
+{
+  width:100%;
+  height:100%;
+  left:0;
+  right:0;
+  bottom:0;
+  background-color:rgba(0,0,0,0.5);
+}
+.divboxed {
+
+  color: black;
+  
+}
+.ServiceArea
+{
+  background-color: White;
+
+}
+#top {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+
+}
+.clientArea{
+  background-color: #fff;
+}
+.testimononialAreaPic
+{
+    position: relative;
+    text-align: center;
+    color: white;
+    background-color: #336699;
+}
+.centeredImage {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+.testimononialAreaform{
+  position: relative;
+  text-align: center;
+  color: white;
+  background-color: #336699;
+}
+.centeredform{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.Subscribecenteredform{
+  color: white;
+  
+}
+.Subscribe{
+  background-color:#000; 
+
+}
+.SubscribeForm{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: white;
+  
+}
