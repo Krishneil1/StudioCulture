@@ -69,9 +69,12 @@ h5:hover {
   bottom:0;
   background-color:rgba(0,0,0,0.5);
 }
+/*Sets color of text on church pic*/
 .divboxed {
 
   color: black;
+  padding-right: 30px;
+  padding-left: 30px;
   
 }
 .ServiceArea
@@ -134,7 +137,7 @@ h5:hover {
 }
 .testclasscon {
   position: relative;
-  width: 50%;
+  width: 100%;
 }
 
 .image {
